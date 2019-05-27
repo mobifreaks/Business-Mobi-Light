@@ -6,7 +6,7 @@ Author URI: http://mobifreaks.com/
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 */
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro);
 h1,h2,h3,h4,h5,h6{font-family: 'Source Sans Pro', sans-serif;font-weight:normal;color:#333;}
 h1,h2,h3,h4,h5,h6,figcaption{text-transform:capitalize;}
 
@@ -94,7 +94,7 @@ form label span.red{
 	color:#ff0000;
 }
 form input[type=submit]{
-	cursor: pointer;	
+	cursor: pointer;
 }
 form input[type=submit],
 form input[type=text],
@@ -213,7 +213,7 @@ article figure{
   	box-shadow:0 0 4px rgba(0,0,0,0.3);
   	-moz-box-shadow:0 0 4px rgba(0,0,0,0.3);
   	-webkit-box-shadow:0 0 4px rgba(0,0,0,0.3);
-  	
+
 }
 article{padding-bottom:30px;}
 article:first-of-type{padding-top:20px;}
@@ -292,7 +292,7 @@ display:block;
 	font-size:0;
 }
 .paginate ul li:first-child{
-	padding:0;	
+	padding:0;
 }
 .paginate ul li a,
 .paginate ul li span.current{
