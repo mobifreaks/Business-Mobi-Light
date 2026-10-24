@@ -1,8 +1,8 @@
 /*
 Theme Name: Business Mobile
-Theme URI: http://mobifreaks.com/mobile templates/
+Theme URI: https://munawarahmed.com/mobifreaks
 Author: Munawar Ahmed
-Author URI: http://mobifreaks.com/
+Author URI: https://munawarahmed.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 */
@@ -135,7 +135,7 @@ form input[type=submit]{
 .inline input,.inline label{display:inline-block !important;}
 /* typography */
 p{font-size:0.9em; line-height:1.6em}
-blockquote{background:url("../images/quotes.png") no-repeat top left;padding-left:40px;min-height:30px;margin:5px 0 30px 0;font-size:0.8em;line-height:1.6em;color:#767676;}
+blockquote{background:url("images/quotes.png") no-repeat top left;padding-left:40px;min-height:30px;margin:5px 0 30px 0;font-size:0.8em;line-height:1.6em;color:#767676;}
 /* styling */
 body{
 	font-family:Arial, Helvetica, sans-serif;
